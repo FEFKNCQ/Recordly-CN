@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/9d558150b940
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Recordly/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/Recordly-CN/releases) 下载。
 
 
 Language: EN | [简中](README.zh-CN.md)
